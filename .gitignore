@@ -1,0 +1,9 @@
+.classpath
+.project
+mvnw
+mvnw.cmd
+coop-services.iml
+.mvn/
+.settings/
+src/main/resources/application.properties
+target/
